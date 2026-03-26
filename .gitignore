@@ -1,0 +1,12 @@
+data/
+config.yaml
+.agents/
+.specify/
+spec.md
+plan.md
+tasks.md
+*.log
+*.out
+*.test
+liiy-file-platform
+.DS_Store
